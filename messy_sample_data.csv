@@ -1,0 +1,13 @@
+id,name,age,department,salary,city,join_date,email,performance_score
+1,Aarav Sharma,24,Engineering,75000,Delhi,2022-01-15,aarav.sharma@example.com,8.7
+2,Meera Iyer,,Marketing,68000,Mumbai,2021-07-10,meera.iyer@example.com,9.1
+3,Rahul Verma,31,Finance,,Bengaluru,2020-03-22,rahul.verma@example.com,
+4,Priya Nair,27,Human Resources,62000,,2023-11-01,priya.nair@example.com,7.8
+5,Karan Singh,35,Sales,90000,Jaipur,NA,karan.singh@example.com,8.4
+6,Ananya Das,23,Design,59000,Kolkata,2022-09-18,,
+7,Vikram Patel,40,Operations,95000,Ahmedabad,2021-01-05,vikram.patel@example.com,9.3
+8,Sneha Kapoor,28,Data Science,88000,Pune,2023-05-30,sneha.kapoor@example.com,8.9
+9,Imran Khan,null,Support,54000,Hyderabad,2022-12-12,imran.khan@example.com,6.5
+10,Neha Joshi,30,Product,NA,Chennai,2024-02-20,neha.joshi@example.com,8.1
+11,Raj Malhotra,38,Engineering,101000,,2020-08-14,raj.malhotra@example.com,9.0
+12,Simran Kaur,26,Marketing,67000,Lucknow,2023-04-09,simran.kaur@example.com,
