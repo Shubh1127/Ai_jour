@@ -1,9 +1,9 @@
-id,name,age,department,salary
-1,Aarav Sharma,24,Engineering,75000
-2,Meera Iyer,29,Marketing,68000
-3,Rahul Verma,31,Finance,82000
-4,Priya Nair,27,Human Resources,62000
-5,Karan Singh,35,Sales,90000
-6,Ananya Das,23,Design,59000
-7,Vikram Patel,40,Operations,95000
-8,Sneha Kapoor,28,Data Science,88000
+id,name,age,department,gender,salary
+1,Aarav Sharma,24,Engineering,male,75000
+2,Meera Iyer,29,Marketing,female,68000
+3,Rahul Verma,31,Finance,male,82000
+4,Priya Nair,27,Human Resources,female,62000
+5,Karan Singh,35,Sales,male,90000
+6,Ananya Das,23,Design,female,59000
+7,Vikram Patel,40,Operations,male,95000
+8,Sneha Kapoor,28,Data Science,female,88000
